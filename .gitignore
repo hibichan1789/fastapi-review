@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg
+*.egg-info/
+.Python
+build/
+dist/
+venv/
+.venv/
+env/
+.env/
+
+# IDE-specific files (optional)
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+
+# Environment variables and secrets
+.env
+secrets.toml
